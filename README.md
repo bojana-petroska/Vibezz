@@ -1,6 +1,8 @@
 # Vibezz
 [visit vibezz](https://vibezz-git-develop-bojana-petroskas-projects.vercel.app/Auth)
 
+Figma Design by Bernadetta Nycz
+
 ### Overview
 
 Vibezz is a dynamic social networking platform designed for connecting and interacting. It enables users to sign up, sign in, and manage their friends, while providing a personalized feed of friend activities.
