@@ -1,7 +1,7 @@
 # Vibezz
 [visit vibezz](https://vibezz-git-develop-bojana-petroskas-projects.vercel.app/Auth)
 
-Figma Design by Bernadetta Nycz
+Figma Design by @Hiiiij, Bernadetta Nycz
 
 ### Overview
 
